@@ -21,7 +21,7 @@ public class MainTest {
         TestUtils.checkStaticFinalField("Main", "MAX_ATTAQUE_ENNEMI", "short", (short) 5);
         TestUtils.checkStaticFinalField("Main", "MAX_VIE_ENNEMI", "short", (short) 30);
         TestUtils.checkStaticFinalField("Main", "MAX_ATTAQUE_JOUEUR", "short", (short) 5);
-        TestUtils.checkStaticFinalField("Main", "REGENARATION_BOUCLIER_PAR_TOUR", "short", (short) 10);
+        TestUtils.checkStaticFinalField("Main", "REGENERATION_BOUCLIER_PAR_TOUR", "short", (short) 10);
     }
 
     @Test
